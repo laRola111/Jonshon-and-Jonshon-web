@@ -3,10 +3,26 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    --color-black: #050505;
+    --color-black-soft: #0B0B0B;
+    --color-black-elevated: #111111;
+    --color-red: #782120;
+    --color-red-dark: #5E1918;
+    --color-red-light: #8B2928;
+    --color-white: #FFFFFF;
+    --color-white-soft: #F3F3F3;
+    --color-gray: #A5A5A5;
+    --color-gray-dark: #2A2A2A;
+    --color-gold: #D4AF5A;
+    --color-gold-light: #E8CC82;
+  }
+
   html {
     scroll-behavior: smooth;
   }
+  
   body {
-    @apply text-brand-charcoal bg-white antialiased font-sans;
+    @apply text-brand-white bg-brand-black antialiased font-sans;
   }
 }

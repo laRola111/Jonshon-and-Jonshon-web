@@ -24,7 +24,7 @@ function App() {
 
   return (
     <HelmetProvider>
-      <div className="font-sans text-brand-charcoal min-h-screen">
+      <div className="font-sans text-brand-white bg-brand-black min-h-screen">
         <Helmet>
           <title>{businessData.businessName} | Retaining Walls & Masonry in Austin, TX</title>
           <meta name="description" content={`Premium retaining walls, custom masonry, and stonework solutions in ${businessData.location}. Call ${businessData.phone} for a free estimate.`} />
