@@ -6,27 +6,27 @@ export const businessData = {
   email: "esdras4506@gmail.com",
   whatsapp: "https://wa.me/19796802936",
   
-  // Verified working images — masonry, stone, outdoor construction
+  // High-quality masonry & retaining wall photography
   images: {
-    // Hero: Lush stone retaining wall terrace, landscaped backyard
-    hero: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&q=85&w=2400",
-    // Featured: Premium outdoor stone/patio space
-    featured: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=85&w=1200",
-    // About: Construction workers / craftsmanship
+    // Hero: Large stone retaining wall, garden terracing - dramatic
+    hero: "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&q=85&w=2400",
+    // Featured: Professional stone wall detail
+    featured: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=85&w=1200",
+    // About: Craftsman working stone
     about: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=85&w=1000",
     gallery: [
-      // 1 - Wide: Outdoor garden terrace with stone
-      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&q=80&w=1200",
-      // 2 - Square: Stone wall texture close-up
-      "https://images.unsplash.com/photo-1555636222-cae831e670b3?auto=format&fit=crop&q=80&w=800",
-      // 3 - Square: Outdoor patio / backyard living
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&q=80&w=800",
-      // 4 - Wide: Premium modern home exterior with landscaping
-      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80&w=1200",
-      // 5 - Square: Garden / stone steps detail
-      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?auto=format&fit=crop&q=80&w=800",
-      // 6 - Square: Construction site / professional crew
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=800",
+      // Stone wall construction close-up
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&q=80&w=1200",
+      // Residential landscape stone
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&q=80&w=800",
+      // Outdoor masonry kitchen / patio
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=80&w=800",
+      // Stone garden wall wide view
+      "https://images.unsplash.com/photo-1563298045-cd79fcef63bb?auto=format&fit=crop&q=80&w=1200",
+      // Natural stone pathway steps
+      "https://images.unsplash.com/photo-1558618047-f4e60cef3895?auto=format&fit=crop&q=80&w=800",
+      // Premium outdoor stone construction
+      "https://images.unsplash.com/photo-1505873242700-f289a29e1724?auto=format&fit=crop&q=80&w=800",
     ]
   },
   
