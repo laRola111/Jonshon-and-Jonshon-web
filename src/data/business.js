@@ -6,18 +6,27 @@ export const businessData = {
   email: "esdras4506@gmail.com",
   whatsapp: "https://wa.me/19796802936",
   
-  // Use professional placeholders that match the requested theme
+  // Verified working images — masonry, stone, outdoor construction
   images: {
-    hero: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=2000&ixlib=rb-4.0.3",
-    featured: "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?auto=format&fit=crop&q=80&w=1200&ixlib=rb-4.0.3",
-    about: "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3",
+    // Hero: Lush stone retaining wall terrace, landscaped backyard
+    hero: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&q=85&w=2400",
+    // Featured: Premium outdoor stone/patio space
+    featured: "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&q=85&w=1200",
+    // About: Construction workers / craftsmanship
+    about: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&q=85&w=1000",
     gallery: [
-      "https://images.unsplash.com/photo-1584622781564-1d987f7333c1?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1628744876497-eb30460be9f6?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1628744448840-55bdb2497bd4?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1517409277085-5026938634fb?auto=format&fit=crop&q=80&w=800",
-      "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?auto=format&fit=crop&q=80&w=800",
+      // 1 - Wide: Outdoor garden terrace with stone
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&q=80&w=1200",
+      // 2 - Square: Stone wall texture close-up
+      "https://images.unsplash.com/photo-1555636222-cae831e670b3?auto=format&fit=crop&q=80&w=800",
+      // 3 - Square: Outdoor patio / backyard living
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&q=80&w=800",
+      // 4 - Wide: Premium modern home exterior with landscaping
+      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&q=80&w=1200",
+      // 5 - Square: Garden / stone steps detail
+      "https://images.unsplash.com/photo-1591474200742-8e512e6f98f8?auto=format&fit=crop&q=80&w=800",
+      // 6 - Square: Construction site / professional crew
+      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&q=80&w=800",
     ]
   },
   

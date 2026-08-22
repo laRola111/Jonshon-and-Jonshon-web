@@ -28,7 +28,7 @@ function App() {
         <Helmet>
           <title>{businessData.businessName} | Retaining Walls & Masonry in Austin, TX</title>
           <meta name="description" content={`Premium retaining walls, custom masonry, and stonework solutions in ${businessData.location}. Call ${businessData.phone} for a free estimate.`} />
-          <meta name="theme-color" content="#c8102e" />
+          <meta name="theme-color" content="#782120" />
           <script type="application/ld+json">
             {JSON.stringify(schema)}
           </script>
